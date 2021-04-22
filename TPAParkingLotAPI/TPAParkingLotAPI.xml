@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>TPAParkingLotAPI</name>
+    </assembly>
+    <members>
+        <member name="M:UserContextAPI.Controllers.WeatherForecastController.Get">
+            <summary>
+            Get all weather forecasts
+            </summary>
+            <returns>Array of weather forecasts</returns>
+        </member>
+    </members>
+</doc>
